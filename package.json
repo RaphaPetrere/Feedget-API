@@ -1,0 +1,32 @@
+{
+  "name": "feedget-api",
+  "version": "1.0.0",
+  "description": "A NodeJS API built to use alongside Feedget Frontend Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaPetrere/Feedget-API.git"
+  },
+  "keywords": [
+    "Node",
+    "API",
+    "Rest",
+    "Prisma",
+    "Typescript",
+    "NodeJS"
+  ],
+  "author": "Raphael Cardoso Petrére",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaPetrere/Feedget-API/issues"
+  },
+  "homepage": "https://github.com/RaphaPetrere/Feedget-API#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
